@@ -1,14 +1,14 @@
 # Palindrome-vGamma
-version Gamma
+version Gamma\n
 
-Computer Game
-Original Game content by Ryan Chappus and Cameron Chappus.
+Computer Game\n
+Original Game content by Ryan Chappus and Cameron Chappus.\n
 
-All rights reserved.
+All rights reserved.\n
 
-Works best on Windows
-Note: press enter to confirm each move
+Works best on Windows \n
+Note: press enter to confirm each move\n
 
-Features:
-improved and extended story
+Features:\n
+improved and extended story\n
 longer gameplay
